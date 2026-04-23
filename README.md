@@ -72,7 +72,7 @@ Beyond code, I bring real-world experience in remote work, client communication,
 
 ## A Bit More
 
-- 🏔️ A mountain enthusiast **orophile**. Summited **Toubkal** — highest peak in Morocco (4,167m)
+- 🏔️ **Orophile** (mountain enthusiast). Summited **Toubkal** — highest peak in Morocco (4,167m)
 - 🎸 Bassist in **Leet Music Band**
 - 🌍 Based in Morocco · Open to **remote opportunities**
 

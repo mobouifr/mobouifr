@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_IMAGE_URL" alt="Guernica — Pablo Picasso" width="100%"/>
+  <img src="https://uploads8.wikiart.org/00139/images/pablo-picasso/guernica-by-pablo-picasso.jpg" alt="Guernica — Pablo Picasso" width="100%"/>
 </div>
 
 <div align="center">

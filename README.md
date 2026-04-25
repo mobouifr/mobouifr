@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="YOUR_IMAGE_URL" alt="Guernica — Pablo Picasso" width="100%"/>
+</div>
+
+<div align="center">
 
 # Montassir Bouifraden
 ### Software Engineer · 42 School Network

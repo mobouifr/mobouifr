@@ -11,11 +11,11 @@
 
 </div>
 
+---
+
 <div align="center">
   <img src="https://uploads8.wikiart.org/00139/images/pablo-picasso/guernica-by-pablo-picasso.jpg" alt="Guernica — Pablo Picasso" width="100%"/>
 </div>
-
----
 
 ## About Me
 

@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://uploads8.wikiart.org/00139/images/pablo-picasso/guernica-by-pablo-picasso.jpg" alt="Guernica — Pablo Picasso" width="100%"/>
-</div>
-
-<div align="center">
 
 # Montassir Bouifraden
 ### Software Engineer · 42 School Network
@@ -13,6 +9,10 @@
 [![42 Profile](https://img.shields.io/badge/42-mobouifr-000000?style=flat-square&logo=42&logoColor=white)](https://profile.intra.42.fr/users/mobouifr)
 [![Email](https://img.shields.io/badge/Email-mountasser.bou@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mountasser.bou@gmail.com)
 
+</div>
+
+<div align="center">
+  <img src="https://uploads8.wikiart.org/00139/images/pablo-picasso/guernica-by-pablo-picasso.jpg" alt="Guernica — Pablo Picasso" width="100%"/>
 </div>
 
 ---

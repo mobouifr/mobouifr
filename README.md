@@ -72,12 +72,6 @@ Fluent in **Arabic**, **French**, and **English** · Based in Morocco · Open to
 
 ---
 
-## A Bit More
-
-When not in the terminal — on a mountain, reading Jung · Morocco · Remote-friendly
-
----
-
 <div align="center">
   <i>modern dev in search of a soul</i>
 </div>

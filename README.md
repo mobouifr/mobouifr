@@ -17,7 +17,7 @@
 
 Software engineering student at **1337 School** (École 42 Network, UM6P — Benguerir). No teachers, no lectures — every project is built from scratch, reviewed by peers, and validated under pressure.
 
-I work across the full stack: backend architecture, frontend delivery, DevOps, and system-level C/C++. I take ownership of what I build, communicate clearly, and work well remotely.
+I work across the full stack: backend architecture, frontend delivery, DevOps, and system-level C/C++.
 
 Fluent in **Arabic**, **French**, and **English** · Based in Morocco · Open to remote opportunities
 

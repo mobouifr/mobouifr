@@ -71,7 +71,6 @@ Fluent in **Arabic**, **French**, and **English** · Based in Morocco · Open to
 | [**cpp-modules**](https://github.com/mobouifr/cpp-modules) | Full C++ curriculum — 10 modules covering OOP, inheritance, polymorphism, templates, STL (cpp00 → cpp09) |
 
 ---
-
 <div align="center">
   <i>modern dev in search of a soul</i>
 </div>

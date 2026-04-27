@@ -37,14 +37,18 @@ Fluent in **Arabic**, **French**, and **English** · Based in Morocco · Open to
 ![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Backend & Frontend**
+**Backend**
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**DevOps & Infra**
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
@@ -55,7 +59,7 @@ Fluent in **Arabic**, **French**, and **English** · Based in Morocco · Open to
  
 **Concepts**
  
-`System Programming` · `OOP` · `Algorithms & Data Structures` · `Networking` · `Unix/Linux` · `REST API Design` · `Relational Data Modeling` · `Containerized Deployments` · `Real-Time Systems`
+`System Programming` · `OOP` · `Algorithms & Data Structures` · `Networking` · `Unix/Linux` · `REST API Design` · `Relational Data Modeling` · `Containerized Deployments`
 
 ---
 

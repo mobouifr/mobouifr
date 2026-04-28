@@ -3,7 +3,7 @@
 # Montassir Bouifraden
 ### Software Engineer · 42 School Network
 
-*Full-stack product engineering — from bare-metal C to production-grade web apps.*
+*modern dev in search of a soul*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-montassir--bouifraden-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/montassir-bouifraden)
 [![42 Profile](https://img.shields.io/badge/42-mobouifr-000000?style=flat-square&logo=42&logoColor=white)](https://profile.intra.42.fr/users/mobouifr)
@@ -14,16 +14,30 @@
 ---
 
 <div align="center">
-  <img src="https://uploads8.wikiart.org/00139/images/pablo-picasso/guernica-by-pablo-picasso.jpg" alt="Guernica — Pablo Picasso" width="100%"/>
+  <img src="https://uploads8.wikiart.org/00139/images/pablo-picasso/guernica-by-pablo-picasso.jpg" alt="Guernica — Pablo Picasso, 1937" width="100%"/>
+  <br/>
+  <sub><i>Guernica — Pablo Picasso, 1937</i></sub>
 </div>
 
-## About Me
+<br/>
 
-Software engineering student at **1337 School** (École 42 Network, UM6P — Benguerir). No teachers, no lectures — every project is built from scratch, reviewed by peers, and validated under pressure.
+<details>
+<summary><sub><i>on keeping this here
+</i></sub></summary>
+<br/>
 
-I work across the full stack: backend architecture, frontend delivery, DevOps, and system-level C/C++.
+> Picasso painted this in response to the bombing of a civilian town during the Spanish Civil War. I keep it here as a reminder that technical skill is not neutral. The same knowledge that builds systems can be used to destroy them — and today, that has never been more visible. The lamp and the eye ask whether we choose to see what we are doing and why. Engineering without values is just power looking for a direction. I think the *why* should always come before the *what*. Build with intention. Preach peace, not war.
 
-Fluent in **Arabic**, **French**, and **English** · Based in Morocco · Open to remote opportunities
+</details>
+
+---
+
+## About me
+
+Software engineering student at **1337 School** (École 42 Network, UM6P — Benguerir). No teachers, no lectures — every project is built from scratch, reviewed by peers, and validated under pressure. That environment trains you to think before you type, own what you ship, and defend every decision.
+
+
+Fluent in **Arabic**, **French**, and **English** · Based in Morocco.
 
 ---
 
@@ -31,10 +45,10 @@ Fluent in **Arabic**, **French**, and **English** · Based in Morocco · Open to
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 **Backend**
@@ -47,8 +61,9 @@ Fluent in **Arabic**, **French**, and **English** · Based in Morocco · Open to
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**DevOps**
+**DevOps & Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
@@ -56,25 +71,20 @@ Fluent in **Arabic**, **French**, and **English** · Based in Morocco · Open to
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
- 
+
 **Concepts**
- 
-`System Programming` · `OOP` · `Algorithms & Data Structures` · `Networking` · `Unix/Linux` · `REST API Design` · `Relational Data Modeling` · `Containerized Deployments`
+
+`System Programming` · `Non-blocking I/O` · `Network Protocols` · `REST API Design` · `Relational Data Modeling` · `Containerized Deployments` · `Real-Time Systems` · `Authentication & Authorization` · `OOP & Design Patterns`
 
 ---
 
 ## Projects
 
-| Project | Description |
+| Project | What it is |
 |---|---|
-| [**Mycel — Freelancer CRM**](https://github.com/mobouifr/Mycel-Freelancer-CRM) | Full-stack CRM for freelancers — client/project management, calendar, revenue analytics, real-time notifications, gamification, AI chatbot. Product Owner & Tech Lead |
-| [**ft_irc**](https://github.com/mobouifr/ft_irc) | IRC server in C++ — handles multiple clients, channels, operators, and real IRC protocol commands |
-| [**Inception**](https://github.com/mobouifr/Inception) | Multi-service Docker infrastructure from scratch — Nginx, WordPress, MariaDB containerized and orchestrated |
-| [**minishell**](https://github.com/mobouifr/minishell) | Fully functional Bash-like shell in C — parsing, pipes, redirections, env variables, builtins |
-| [**cub3D**](https://github.com/mobouifr/cub3D) | Raycasting 3D game engine in C inspired by Wolfenstein 3D — textures, map parsing, real-time rendering |
-| [**cpp-modules**](https://github.com/mobouifr/cpp-modules) | Full C++ curriculum — 10 modules covering OOP, inheritance, polymorphism, templates, STL (cpp00 → cpp09) |
-
----
-<div align="center">
-  <i>modern dev in search of a soul</i>
-</div>
+| [**Mycel — Freelancer CRM**](https://github.com/mobouifr/Mycel-Freelancer-CRM) | Full-stack CRM — client/project management, calendar, revenue analytics, real-time SSE, gamification, AI chatbot. Product Owner & Tech Lead on a 5-person team. |
+| [**ft_irc**](https://github.com/mobouifr/ft_irc) | IRC server in C++98 — multi-client, channels, operator commands, non-blocking I/O with a single `poll()` loop. |
+| [**Inception**](https://github.com/mobouifr/Inception) | Production-like Docker infrastructure from scratch — Nginx, WordPress, MariaDB containerized and orchestrated with Docker Compose. |
+| [**minishell**](https://github.com/mobouifr/minishell) | Bash-like shell in C — lexer, parser, pipes, redirections, environment variables, and all core builtins. |
+| [**cub3D**](https://github.com/mobouifr/cub3D) | Raycasting 3D engine in C — real-time rendering, texture mapping, and map parsing inspired by Wolfenstein 3D. |
+| [**cpp-modules**](https://github.com/mobouifr/cpp-modules) | 10-module C++ curriculum — OOP, inheritance, polymorphism, templates, and STL from first principles. |

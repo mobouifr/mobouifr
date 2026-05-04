@@ -5,7 +5,7 @@
 
 *modern dev in search of a soul*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-montassir--bouifraden-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/montassir-bouifraden)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-montassir--bouifraden-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/montassir-bouifraden-a2124b32b/)
 [![42 Profile](https://img.shields.io/badge/42-mobouifr-000000?style=flat-square&logo=42&logoColor=white)](https://profile.intra.42.fr/users/mobouifr)
 [![Email](https://img.shields.io/badge/Email-mountasser.bou@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mountasser.bou@gmail.com)
 

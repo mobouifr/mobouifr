@@ -75,7 +75,7 @@ Obsessed with systems that don't hide what they're doing, interfaces that feel i
 
 **AI & Data**
 
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 
@@ -87,7 +87,7 @@ Obsessed with systems that don't hide what they're doing, interfaces that feel i
 
 ## Working on right now
 
-**[Hangar](https://github.com/mobouifr/Hangar)** — a self-hosted mini-PaaS in Node.js and TypeScript. Push code to GitHub — Hangar builds it, runs it in a Docker container, and gives it a live URL. Logs stream back in real time. Think a stripped-down Railway, built from scratch.
+**[Hangar.](https://github.com/mobouifr/Hangar.)** — a self-hosted mini-PaaS in Node.js and TypeScript. Push code to GitHub — Hangar builds it, runs it in a Docker container, and gives it a live URL. Logs stream back in real time. Think a stripped-down Railway, built from scratch.
 
 ---
 

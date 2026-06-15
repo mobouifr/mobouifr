@@ -60,8 +60,6 @@ Obsessed with systems that don't hide what they're doing, interfaces that feel i
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -86,16 +84,18 @@ Obsessed with systems that don't hide what they're doing, interfaces that feel i
 
 ---
 
+## Working on right now
+
+**[Hangar](https://github.com/mobouifr/Hangar)** — a self-hosted mini-PaaS in Node.js and TypeScript. Push code to GitHub — Hangar builds it, runs it in a Docker container, and gives it a live URL. Logs stream back in real time. Think a stripped-down Railway, built from scratch.
+
+---
+
 ## Projects
 
 | Project | What it is |
 |---|---|
-| [**Hangar**](https://github.com/mobouifr/Hangar) *(in progress)* | A self-hosted mini-PaaS in Node.js and TypeScript. Push code to GitHub — Hangar builds it, runs it in a Docker container, and gives it a live URL. Logs stream back in real time. Think a stripped-down Railway, built from scratch. |
 | [**rag-demo**](https://github.com/mobouifr/rag-demo) | Fully local RAG pipeline — ask questions about any document using Llama 3.2, ChromaDB, and LangChain. No API keys, no cloud. Built in a weekend to understand how production AI systems are actually structured. |
 | [**Mycel — Freelancer CRM**](https://github.com/mobouifr/Mycel-Freelancer-CRM) | Full-stack CRM — client and project management, calendar, revenue analytics, real-time SSE, gamification, AI chatbot. Product Owner and Tech Lead on a 5-person team. |
 | [**ft_irc**](https://github.com/mobouifr/ft_irc) | IRC server in C++98 — multi-client, channels, operator commands, non-blocking I/O with a single `poll()` loop. |
 | [**RawHTTP**](https://github.com/mobouifr/rawhttp) | HTTP server rebuilt from raw TCP sockets in Node.js — manual request parsing, routing, middleware chaining, and async I/O. No frameworks until the last stage. |
 | [**Inception**](https://github.com/mobouifr/Inception) | Production-like Docker infrastructure from scratch — Nginx, WordPress, MariaDB containerized and orchestrated with Docker Compose. |
-| [**minishell**](https://github.com/mobouifr/minishell) | Bash-like shell in C — lexer, parser, pipes, redirections, environment variables, and all core builtins. |
-| [**cub3D**](https://github.com/mobouifr/cub3D) | Raycasting 3D engine in C — real-time rendering, texture mapping, and map parsing inspired by Wolfenstein 3D. |
-| [**cpp-modules**](https://github.com/mobouifr/cpp-modules) | 10-module C++ curriculum — OOP, inheritance, polymorphism, templates, and STL from first principles. |

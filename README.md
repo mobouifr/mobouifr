@@ -75,9 +75,9 @@ Obsessed with systems that don't hide what they're doing, interfaces that feel i
 
 **AI & Data**
 
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=llvm&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=databricks&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 
 **Concepts**
 
